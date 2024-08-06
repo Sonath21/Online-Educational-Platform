@@ -1,5 +1,13 @@
 # Online Educational Environment
 
+Hosted at: https://airaptis.webpages.auth.gr/4007partB/
+
+Login/password for tutor/student:
+• USERNAME (tutor): testlogin
+• PASSWORD(tutor): 123
+• USERNAME(student): testlogin2
+• PASSWORD(student): 123
+
 The Online Educational Environment is a PHP-based web application designed to streamline the management of educational resources and facilitate effective communication between tutors and students. This platform supports various functionalities crucial for educational settings, including user authentication, management of announcements, assignments, and documents, as well as a messaging system for enhanced interaction.
 
 ## Features
